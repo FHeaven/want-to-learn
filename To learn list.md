@@ -10,3 +10,5 @@ https://cn.vuejs.org/v2/guide/syntax.html
 http://exploringjs.com/es6/index.html#toc_ch_promises
 ### Angular
 https://angular.cn/docs
+### NativeScript
+https://docs.nativescript.org/
